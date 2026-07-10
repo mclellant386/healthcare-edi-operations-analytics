@@ -4,6 +4,14 @@ An end-to-end healthcare EDI operations analytics project that uses Python to ge
 
 The project simulates the type of transaction monitoring, issue investigation, SLA analysis, and operational reporting performed by healthcare EDI operations and technical analyst teams.
 
+## Dashboard Preview
+
+![EDI Operations Performance Dashboard](images/EDI Ops Dashboard.png)
+
+### View the Interactive Dashboard
+
+[View the Interactive Tableau Dashboard](https://public.tableau.com/views/EDIOperationsPerformanceDashboard/EDIOperationsPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link)
+
 ## Project Overview
 
 Healthcare EDI operations teams monitor large volumes of electronic transactions and investigate issues that can affect successful processing.
@@ -56,10 +64,6 @@ Dashboard visualizations include:
 - 20-Second SLA Threshold
 
 Interactive dashboard actions allow users to select error categories and payer routing issues to filter supporting KPIs and visualizations for further investigation.
-
-### View the Interactive Dashboard
-
-[View the Interactive Tableau Dashboard](https://public.tableau.com/views/EDIOperationsPerformanceDashboard/EDIOperationsPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link)
 
 ## Project Structure
 
