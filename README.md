@@ -6,7 +6,7 @@ The project simulates the type of transaction monitoring, issue investigation, S
 
 ## Dashboard Preview
 
-[EDI Operations Performance Dashboard](images/EDI Ops Dashboard.png)
+![EDI Operations Performance Dashboard](images/EDI%20Ops%20Dashboard.png)
 
 ### View the Interactive Dashboard
 
